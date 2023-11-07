@@ -41,7 +41,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [My solution URL]([https://your-solution-url.com](https://www.frontendmentor.io/solutions/interactive-expenses-chart-component-2FqS0wcTFG))
+- Solution URL: [My solution URL](https://www.frontendmentor.io/solutions/interactive-expenses-chart-component-2FqS0wcTFG)
 - Live Site URL: [Live site URL](https://vickschap.github.io/expenses-chart-component-main/)
 
 ## My process

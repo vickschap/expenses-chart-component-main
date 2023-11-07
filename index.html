@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- displays site properly based on user's device -->
+
+    <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png" />
+    <link rel="stylesheet" href="style.css" />
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,400;9..40,700&display=swap" rel="stylesheet">
+    
+    <title>Expenses chart component</title>
+    <style>
+      .attribution {
+        font-size: 11px;
+        position: relative;
+        bottom: 0px;
+        text-align: center;
+        justify-self: end;
+      }
+      .attribution a {
+        color: hsl(228, 45%, 44%);
+      }
+    </style>
+  </head>
+  <body>
+    <div class="main">
+      <div class="top-container">
+      <div class="balance">
+        <p>My balance</p>
+        <h2>$921.48</h2>
+      </div>
+      <div class="circles">
+        <div class="circle1"></div>
+        <div class="circle2"></div>
+      </div>  
+      </div>
+      <div class="spendings">
+        <h1>Spending - Last 7 days</h1>
+        <div class="b">
+        <div class="bar-container"><div class="tooltip" id="amt_mon"></div><div id="mon" class="bar"></div></div>
+        <div class="bar-container"><div class="tooltip" id="amt_tue"></div><div id="tue" class="bar"></div></div>
+        <div class="bar-container"><div class="tooltip" id="amt_wed"></div><div id="wed" class="bar"></div></div>
+        <div class="bar-container"><div class="tooltip" id="amt_thu"></div><div id="thu" class="bar"></div></div>
+        <div class="bar-container"><div class="tooltip" id="amt_fri"></div><div id="fri" class="bar"></div></div>
+        <div class="bar-container"><div class="tooltip" id="amt_sat"></div><div id="sat" class="bar"></div></div>
+        <div class="bar-container"><div class="tooltip" id="amt_sun"></div><div id="sun" class="bar"></div></div>
+      </div>
+      <div class="d">
+        <p class="day">mon</p>
+        <p class="day">tue</p>
+        <p class="day">wed</p>
+        <p class="day">thu</p>
+        <p class="day">fri</p>
+        <p class="day">sat</p>
+        <p class="day">sun</p>
+      </div>
+        <hr />
+        <div class="summary">
+          <div class="total">
+            <p>Total this month</p>
+            <h1>$478.33</h1>
+          </div>
+          <div class="change">
+            <p class="percent">+2.4%</p>
+            <p class="from">from last month</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="attribution">
+      Challenge by
+      <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. Coded by <a href="#">Vivek C</a>.
+    </div>
+  </body>
+  <script src="index.js" type="text/javascript"></script>
+</html>

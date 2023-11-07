@@ -30,13 +30,13 @@ Users should be able to:
 ### Screenshots
 
 - *HTML :*
-- 
+
 ![HTML-screenshot](HTML.PNG)
  - *CSS :*
- - 
+ 
 ![CSS-screenshot](CSS.PNG)
  - *JS :*
- - 
+ 
 ![JS-screenshot](JS.PNG)
 
 ### Links

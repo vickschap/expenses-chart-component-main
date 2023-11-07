@@ -23,29 +23,32 @@ This is a solution to the [Expenses chart component challenge on Frontend Mentor
 
 Users should be able to:
 
-- View the bar chart and hover over the individual bars to see the correct amounts for each day.
+- View the bar chart and hover over the individual bars to see the expense amounts for each day.
 - View the optimal layout for the content depending on their device’s screen size.
 
 
 ### Screenshots
 
 - *HTML :*
+- 
 ![HTML-screenshot](HTML.PNG)
  - *CSS :*
+ - 
 ![CSS-screenshot](CSS.PNG)
  - *JS :*
+ - 
 ![JS-screenshot](JS.PNG)
 
 ### Links
 
-- Solution URL: [My solution URL](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [My solution URL]([https://your-solution-url.com](https://www.frontendmentor.io/solutions/interactive-expenses-chart-component-2FqS0wcTFG))
+- Live Site URL: [Live site URL](https://vickschap.github.io/expenses-chart-component-main/)
 
 ## My process
 
 ### Built with
 
-- Semantic HTML5 markup
+- Semantic HTML markup
 - CSS custom properties
 - Flexbox
 - CSS Grid
@@ -54,8 +57,8 @@ Users should be able to:
 ### What I learned
 
 In this project I learned 2 new things :
- - 1. How to use CSS flex and grid properties.
- - 2. How to loop through object arrays in JS and access particular keys and it's values.
+ - How to use CSS flex and grid properties.
+ - How to loop through object arrays in JS and access particular keys and it's values.
 
 ### Continued development
 

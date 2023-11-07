@@ -6,7 +6,7 @@ This is a solution to the [Expenses chart component challenge on Frontend Mentor
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
+  - [Screenshot](#screenshots)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -66,7 +66,7 @@ I am a newbie in Javascript but determined to learn more of this vast but amazin
 
 ### Useful resources
 
-- [Markdownguide.org](https://www.markdownguide.org) - This helped me for wrinting this markdown.
+- [Markdownguide.org](https://www.markdownguide.org) - This helped me for writing this markdown.
 - [W3Schools](https://www.w3schools.com) - A go-to-site for all our basic coding lessons and useful tips.
 
 ## Author
